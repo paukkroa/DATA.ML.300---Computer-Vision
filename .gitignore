@@ -19,3 +19,51 @@ dist/
 
 **.DS_Store
 Week 1/CV_Week_1.pdf
+*.mp4
+*.jpg
+Week 3/Task_2-3/1512.02325.pdf
+Week 3/Task_2-3/__init__.py
+Week 3/Task_2-3/bounding_box_utils/__init__.py
+Week 3/Task_2-3/bounding_box_utils/bounding_box_utils.py
+Week 3/Task_2-3/data_generator/__init__.py
+Week 3/Task_2-3/data_generator/data_augmentation_chain_constant_input_size.py
+Week 3/Task_2-3/data_generator/data_augmentation_chain_original_ssd.py
+Week 3/Task_2-3/data_generator/data_augmentation_chain_satellite.py
+Week 3/Task_2-3/data_generator/data_augmentation_chain_variable_input_size.py
+Week 3/Task_2-3/data_generator/object_detection_2d_data_generator.py
+Week 3/Task_2-3/data_generator/object_detection_2d_geometric_ops.py
+Week 3/Task_2-3/data_generator/object_detection_2d_image_boxes_validation_utils.py
+Week 3/Task_2-3/data_generator/object_detection_2d_misc_utils.py
+Week 3/Task_2-3/data_generator/object_detection_2d_patch_sampling_ops.py
+Week 3/Task_2-3/data_generator/object_detection_2d_photometric_ops.py
+Week 3/Task_2-3/datasets/udacity/labels_train_small.csv
+Week 3/Task_2-3/datasets/udacity/labels_val_small.csv
+Week 3/Task_2-3/eval_utils/__init__.py
+Week 3/Task_2-3/eval_utils/average_precision_evaluator.py
+Week 3/Task_2-3/eval_utils/coco_utils.py
+Week 3/Task_2-3/keras_layers/__init__.py
+Week 3/Task_2-3/keras_layers/keras_layer_AnchorBoxes.py
+Week 3/Task_2-3/keras_layers/keras_layer_DecodeDetections.py
+Week 3/Task_2-3/keras_layers/keras_layer_DecodeDetectionsFast.py
+Week 3/Task_2-3/keras_layers/keras_layer_L2Normalization.py
+Week 3/Task_2-3/keras_loss_function/__init__.py
+Week 3/Task_2-3/keras_loss_function/keras_ssd_loss.py
+Week 3/Task_2-3/misc_utils/__init__.py
+Week 3/Task_2-3/misc_utils/tensor_sampling_utils.py
+Week 3/Task_2-3/models/__init__.py
+Week 3/Task_2-3/models/keras_ssd300.py
+Week 3/Task_2-3/models/keras_ssd7.py
+Week 3/Task_2-3/run.gif
+Week 3/Task_2-3/ssd_encoder_decoder/__init__.py
+Week 3/Task_2-3/ssd_encoder_decoder/matching_utils.py
+Week 3/Task_2-3/ssd_encoder_decoder/ssd_input_encoder.py
+Week 3/Task_2-3/ssd_encoder_decoder/ssd_output_decoder.py
+Week 3/Task_2-3/training_summaries/ssd300_pascal_07+12_loss_history.png
+Week 3/Task_2-3/training_summaries/ssd300_pascal_07+12_training_summary.md
+Week 3/Task_2-3/utils.py
+Week 3/Task_2-3/weights/VGG_VOC0712_SSD_300x300_iter_120000.h5
+Week 3/Task_2-3/yolo/cfg/yolov3-tiny.cfg
+Week 3/Task_2-3/yolo/cfg/yolov3.cfg
+Week 3/Task_2-3/yolo/coco.names
+Week 3/Task_2-3/yolo/yolo.py
+Week 3/Task_2-3/yolo/yolov3-tiny.weights
